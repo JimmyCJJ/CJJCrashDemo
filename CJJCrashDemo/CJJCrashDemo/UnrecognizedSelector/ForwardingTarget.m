@@ -7,7 +7,7 @@
 //
 
 #import "ForwardingTarget.h"
-#import <objc/runtime.h>
+
 @implementation ForwardingTarget
 
 - (void)forwardingTargetMethod{
