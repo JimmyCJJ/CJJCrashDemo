@@ -15,7 +15,6 @@
 @property (nonatomic,strong) UIButton *addMethodBtn;
 @property (nonatomic,strong) UIButton *forwardingTargetBtn;
 @property (nonatomic,strong) UIButton *forwardingInvocationBtn;
-+ (void)classMethod:(int)num;
 @end
 
 @implementation ViewController
